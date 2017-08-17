@@ -1,0 +1,15 @@
+{
+  "name": "dockery-wordpress",
+  "version": "1.0.0",
+  "description": "Dockery WordPress!!",
+  "main": "index.js",
+  "author": "Joe Hoyle",
+  "license": "MIT",
+  "dependencies": {
+    "caporal": "^0.6.0",
+    "random-port": "^0.1.0"
+  },
+  "bin": {
+    "dockery-wordpress": "index.js"
+  }
+}
